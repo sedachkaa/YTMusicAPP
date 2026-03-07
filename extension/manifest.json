@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Music Downloader",
+  "version": "1.0",
+  "description": "Добавляет кнопку для скачивания музыки с YouTube через локальное приложение",
+  "permissions": [],
+  "host_permissions": ["*://*.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+}
