@@ -4,4 +4,4 @@
 // Желаю хорошего использования моего приложения, удачи!
 
 
-![MYAPP](https://github.com/sedachkaa/YTMusicAPP/blob/main/build/musicYT/localpycs/123.jpg?raw=true)
+![MYAPP](https://github.com/sedachkaa/YTMusicAPP/blob/main/123.jpg?raw=true)
